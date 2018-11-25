@@ -1,0 +1,64 @@
+body{
+  background-color: #D9D9D9;
+  font-family: 'Josefin Sans', sans-serif;
+
+  h1 {
+    color: #4484CE;
+    font-size: 5vw;
+    text-align: center;
+  }
+  form {
+    text-align: center;
+
+    button {
+      background-color:#F19F4D;
+      border: 1px solid #4484CE;
+      padding: 5px 15px;
+    }
+    
+    input {
+      border: 1px solid #4484CE;
+      padding: 5px;
+    }
+  }
+
+  h2 {
+    text-align: center;
+  }
+
+  .map {
+    border: 2px solid #4484CE;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    width: 80%;
+  }
+
+  section {
+    background-color: white;
+    border: 1px solid black;
+    display: inline-block;
+    margin: 1%;
+    overflow: scroll;
+    padding: 1%;
+    vertical-align: top;
+    width: 15.47%;
+
+    img {
+      display: block;
+      margin: auto;
+      max-width: 100%;
+    }
+  
+    ul {
+      line-height: 1.5em;
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+  
+      li {
+        border-bottom: 2px solid #555;
+      }
+    }
+  }
+}
