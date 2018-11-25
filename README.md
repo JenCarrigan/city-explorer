@@ -8,4 +8,4 @@ https://github.com/JenCarrigan/city-explorer
 
 ## UML
 ![UML]
-https://raw.githubusercontent.com/JenCarrigan/data-structures-and-algorithms/master/%3Aassets/explorer-UML.jpg
+(https://raw.githubusercontent.com/JenCarrigan/data-structures-and-algorithms/master/%3Aassets/explorer-UML.jpg)
